@@ -1,6 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 
 header{background-color: rgb(251, 255, 253);
-    boder: none;
     border-radius: 0%;
     margin: none;
     float: none;
